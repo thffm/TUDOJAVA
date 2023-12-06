@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-public class Woker {
+public class Worker {
     private String name;
     private WorkedLevel level;
     private Double baseSalary;
@@ -14,10 +14,10 @@ public class Woker {
     private Department department;
     private List<HourContract> contracts = new ArrayList<>();
 
-    public Woker(){
+    public Worker(){
 
     }
-    public Woker(String name,WorkedLevel level,Double baseSalary,Department department){
+    public Worker(String name, WorkedLevel level, Double baseSalary, Department department){
         this.name = name;
         this.level = level;
         this.baseSalary = baseSalary;
@@ -71,6 +71,7 @@ public class Woker {
     public double income(int year,int month){
         double sum = baseSalary;
         Calendar cal = Calendar.getInstance();
+
         for(HourContract c:contracts){
             cal.setTime(c.getDate());
             int c_year = cal.get(Calendar.YEAR);

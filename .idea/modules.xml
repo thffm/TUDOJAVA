@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Composicao/Composicao.iml" filepath="$PROJECT_DIR$/Composicao/Composicao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Correcao_ex_Banco/Correcao_ex_Banco.iml" filepath="$PROJECT_DIR$/Correcao_ex_Banco/Correcao_ex_Banco.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataParaLocal/DataParaLocal.iml" filepath="$PROJECT_DIR$/DataParaLocal/DataParaLocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioComposicao/DesafioComposicao.iml" filepath="$PROJECT_DIR$/DesafioComposicao/DesafioComposicao.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoWhile/DoWhile.iml" filepath="$PROJECT_DIR$/DoWhile/DoWhile.iml" />
       <module fileurl="file://$PROJECT_DIR$/EmployeePayment/EmployeePayment.iml" filepath="$PROJECT_DIR$/EmployeePayment/EmployeePayment.iml" />
       <module fileurl="file://$PROJECT_DIR$/Entrada_de_dados/Entrada_de_dados.iml" filepath="$PROJECT_DIR$/Entrada_de_dados/Entrada_de_dados.iml" />
@@ -28,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/MetodosEstaticos/MetodosEstaticos.iml" filepath="$PROJECT_DIR$/MetodosEstaticos/MetodosEstaticos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pessoa/Pessoa.iml" filepath="$PROJECT_DIR$/Pessoa/Pessoa.iml" />
       <module fileurl="file://$PROJECT_DIR$/Poo2/Poo2.iml" filepath="$PROJECT_DIR$/Poo2/Poo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Post/Post.iml" filepath="$PROJECT_DIR$/Post/Post.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimeiraclassJava/PrimeiraclassJava.iml" filepath="$PROJECT_DIR$/PrimeiraclassJava/PrimeiraclassJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuperMercado/SuperMercado.iml" filepath="$PROJECT_DIR$/SuperMercado/SuperMercado.iml" />
       <module fileurl="file://$PROJECT_DIR$/TiposRefVsTipoValor/TiposRefVsTipoValor.iml" filepath="$PROJECT_DIR$/TiposRefVsTipoValor/TiposRefVsTipoValor.iml" />
@@ -58,6 +60,7 @@
       <module fileurl="file://$PROJECT_DIR$/teste_1/teste_1.iml" filepath="$PROJECT_DIR$/teste_1/teste_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/tste/tste.iml" filepath="$PROJECT_DIR$/tste/tste.iml" />
       <module fileurl="file://$PROJECT_DIR$/tste_func/tste_func.iml" filepath="$PROJECT_DIR$/tste_func/tste_func.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetoresP2/untitled/untitled.iml" filepath="$PROJECT_DIR$/VetoresP2/untitled/untitled.iml" />
     </modules>
   </component>
 </project>

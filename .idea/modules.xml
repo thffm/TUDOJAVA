@@ -14,22 +14,27 @@
       <module fileurl="file://$PROJECT_DIR$/Entrada_de_dados/Entrada_de_dados.iml" filepath="$PROJECT_DIR$/Entrada_de_dados/Entrada_de_dados.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enums/Enums.iml" filepath="$PROJECT_DIR$/Enums/Enums.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturas_de_dados_p2/Estruturas_de_dados_p2.iml" filepath="$PROJECT_DIR$/Estruturas_de_dados_p2/Estruturas_de_dados_p2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExCassAbstrata/ExCassAbstrata.iml" filepath="$PROJECT_DIR$/ExCassAbstrata/ExCassAbstrata.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExPolimorfismo/ExPolimorfismo.iml" filepath="$PROJECT_DIR$/ExPolimorfismo/ExPolimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExTelefonia/ExTelefonia.iml" filepath="$PROJECT_DIR$/ExTelefonia/ExTelefonia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ex_estaticos/Ex_estaticos.iml" filepath="$PROJECT_DIR$/Ex_estaticos/Ex_estaticos.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExerciciesPoo/ExerciciesPoo.iml" filepath="$PROJECT_DIR$/ExerciciesPoo/ExerciciesPoo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios1/Exercicios1.iml" filepath="$PROJECT_DIR$/Exercicios1/Exercicios1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Farid/Farid.iml" filepath="$PROJECT_DIR$/Farid/Farid.iml" />
       <module fileurl="file://$PROJECT_DIR$/FinalGrade/FinalGrade.iml" filepath="$PROJECT_DIR$/FinalGrade/FinalGrade.iml" />
       <module fileurl="file://$PROJECT_DIR$/For/For.iml" filepath="$PROJECT_DIR$/For/For.iml" />
       <module fileurl="file://$PROJECT_DIR$/FristCalculator/FristCalculator.iml" filepath="$PROJECT_DIR$/FristCalculator/FristCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/FuncoesStrings/FuncoesStrings.iml" filepath="$PROJECT_DIR$/FuncoesStrings/FuncoesStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hotel/Hotel.iml" filepath="$PROJECT_DIR$/Hotel/Hotel.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loja/Loja.iml" filepath="$PROJECT_DIR$/Loja/Loja.iml" />
       <module fileurl="file://$PROJECT_DIR$/LojaDeCarros/LojaDeCarros.iml" filepath="$PROJECT_DIR$/LojaDeCarros/LojaDeCarros.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loja_update/Loja_update.iml" filepath="$PROJECT_DIR$/Loja_update/Loja_update.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MetodoAbastrato/MetodoAbastrato.iml" filepath="$PROJECT_DIR$/MetodoAbastrato/MetodoAbastrato.iml" />
       <module fileurl="file://$PROJECT_DIR$/MetodosEstaticos/MetodosEstaticos.iml" filepath="$PROJECT_DIR$/MetodosEstaticos/MetodosEstaticos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pessoa/Pessoa.iml" filepath="$PROJECT_DIR$/Pessoa/Pessoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PilhaDeChamadoDeMetodos/PilhaDeChamadoDeMetodos.iml" filepath="$PROJECT_DIR$/PilhaDeChamadoDeMetodos/PilhaDeChamadoDeMetodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Poo2/Poo2.iml" filepath="$PROJECT_DIR$/Poo2/Poo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Post/Post.iml" filepath="$PROJECT_DIR$/Post/Post.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimeiraclassJava/PrimeiraclassJava.iml" filepath="$PROJECT_DIR$/PrimeiraclassJava/PrimeiraclassJava.iml" />
@@ -64,6 +69,7 @@
       <module fileurl="file://$PROJECT_DIR$/testeList/testeList.iml" filepath="$PROJECT_DIR$/testeList/testeList.iml" />
       <module fileurl="file://$PROJECT_DIR$/teste_/teste_.iml" filepath="$PROJECT_DIR$/teste_/teste_.iml" />
       <module fileurl="file://$PROJECT_DIR$/teste_1/teste_1.iml" filepath="$PROJECT_DIR$/teste_1/teste_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trycatch/trycatch.iml" filepath="$PROJECT_DIR$/trycatch/trycatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/tste/tste.iml" filepath="$PROJECT_DIR$/tste/tste.iml" />
       <module fileurl="file://$PROJECT_DIR$/tste_func/tste_func.iml" filepath="$PROJECT_DIR$/tste_func/tste_func.iml" />
       <module fileurl="file://$PROJECT_DIR$/VetoresP2/untitled/untitled.iml" filepath="$PROJECT_DIR$/VetoresP2/untitled/untitled.iml" />

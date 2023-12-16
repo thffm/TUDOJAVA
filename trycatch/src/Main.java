@@ -1,9 +1,12 @@
+import model.entities.Account;
+import model.exceptions.DomainException;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        method1();
+        /*method1();
 
 
 
@@ -37,6 +40,42 @@ public class Main {
 
 
         sc.close();
+        */
+
+
+        //it's clean
+        Scanner sc = new Scanner(System.in);
+        try {
+            System.out.println("Enter account data");
+            System.out.print("Number: ");
+            int number = sc.nextInt();
+            sc.nextLine();
+            System.out.print("Holder: ");
+            String holder = sc.nextLine();
+            System.out.print("Initial balance: ");
+            double initialBalance = sc.nextDouble();
+            System.out.print("Withdraw limit: ");
+            double withdrawLimit = sc.nextDouble();
+            System.out.println("");
+            Account account = new Account(number,holder,initialBalance,withdrawLimit);
+
+
+            System.out.print("Enter amount for withdraw: ");
+            account.withdraw(sc.nextDouble());
+
+        }
+        catch (InputMismatchException e){
+            System.out.print("Input error!!");
+        }
+        catch (DomainException e){
+            System.out.println(e.getMessage());
+
+        }
+
+
+
+        sc.close();
+
 
 
     }
